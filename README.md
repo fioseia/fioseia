@@ -9,7 +9,7 @@
 </br>
 About me? 🙋🏽‍♀️
 </br>
-🔹Hi! I'm a Full Stack developer with a Frontend orientation focused on developing creative and innovative user experiences paying special attention to details.
+🔹Hi! I'm a 28 years old Full Stack developer from Argentina with a Frontend orientation focused on developing creative and innovative user experiences paying special attention to details.
 
 Why me? 🤷🏽‍♀️
 </br>
