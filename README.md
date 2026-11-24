@@ -1,42 +1,32 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, heigth: 200px" />
-</div>  
-</br>
-  
+# Hi, I'm Fiorenza Seia
 
-### <div align="center">I'm Fiorenza Seia, a full-time full-stack developer 👩🏽‍💻 from Argentina 🇦🇷 to the world 🌎🚀</div>  
-  
-### About me? 🙋🏽‍♀️
-🔹Hi! I'm a 28 years old Full Stack developer from Argentina with a Frontend orientation focused on developing creative and innovative user experiences paying special attention to details. Photography lover in my spare time. Say cheese! 📸
-> Pronouns: she/her
+Tech Lead and full-stack developer, pediatrician (MD), and Health Innovation Fellow at d·HEALTH Barcelona. Based in Barcelona.
 
-### Why me? 🤷🏽‍♀️
+## About me
 
-🔹Although my path in the IT world began only a year ago, in me, you will find a person who found a new passion in this area, which leads me to spend hours in front of the computer discovering and learning new technologies and eager to give everything of myself to create unique products 🙌🏽
+I worked as a pediatrician in inpatient care, pediatric emergency and neonatal units. In 2021 I moved into software development, and since then I have worked on frontend, backend and cloud projects in healthcare, SaaS and fintech.
 
-### Two important aspects that make me who I am today:
+Today I am Tech Lead at Finaer, a fintech that helps people access rental housing through financial guarantees. I am also a fellow at d·HEALTH Barcelona, a health innovation program based on the Stanford Biodesign methodology.
 
-🔹I am argentine 🇦🇷, and like most people in Latin America, this means that I am used to changing and unstable scenarios, which leads us to reinvent ourselves and seek creative solutions to day-to-day problems.
-</br>
-🔹My background as a pediatrician 👩🏽‍⚕️ allowed me to learn to work with different teams of people and to develop soft skills such as empathy, communication and responsibility
-</br>
-</br>
+My long-term goal is to bring both backgrounds together and build technology for healthcare.
 
-- Programing Language: Javascript
-- Software Development: HTML5, CSS3, Bootstrap, Tailwind css, Framer Motion, GSAP, NodeJs
-- Database: PostgresSQL, Firebase
-- Framework/Library: ReactJS, Redux, React Native, Express
-- Project Managment: Jira, Slack
-- Agile Methodologies: Scrum
-- Version Control: Git & GitHub
+## What I've been working on
 
-### 🚀 Where I'm headed
-Currently I will seek to continue my learning path focusing on technologies applicable to Web3 such as Solidity
+- **Finaer** — technical lead for the platform. Architecture, code reviews, release processes and CI/CD. Part of the team that built the new platform from scratch: a React Native app for tenants, a Next.js dashboard, a platform for real estate agencies and a NestJS/GraphQL backend on AWS. Currently working on a risk analysis pipeline with AI-based document analysis.
+- **osapiens** — frontend development with React and TypeScript for a supply-chain sustainability SaaS. Internal tooling and automated testing with Jest and Playwright.
+- **Neuron Health** — a Next.js app to manage medical records, and a Python/Flask service that extracts structured clinical data.
 
-### Let's get in touch!
-Do you want to know more about me? 
-Mail me ✉️ fiorenza.seia@gmail.com or just send me a message through Linkedin [contact me](https://www.linkedin.com/in/fiorenza-seia/)😊  I'm always open to receiving helpful feedback and having nice conversations
-  
+## Tech stack
 
-<br/>  
+- **Frontend:** React, Next.js, TypeScript, TanStack Query, Apollo Client, Zustand, Tailwind CSS
+- **Mobile:** React Native, Firebase
+- **Backend:** Node.js, NestJS, GraphQL, TypeORM, microservices
+- **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j, Redis
+- **Cloud & DevOps:** AWS (ECS, RDS, S3, SQS, SNS), Docker, GitHub Actions
+- **AI:** LLM integration (Claude API)
+- **Testing:** Jest, Vitest, Playwright, Testcontainers
 
+## Get in touch
+
+- Email: fiorenza.seia@gmail.com
+- LinkedIn: [fiorenza-seia](https://www.linkedin.com/in/fiorenza-seia/)
